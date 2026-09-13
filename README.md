@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing sales performance, profitability, and inventory health for **BayoMart Solutions Ltd.**, a fictional Nigerian retail/distribution company. The dashboard consolidates orders, discounts, revenue, profit, and restock data into a single view to support commercial decision-making.
 
-![Dashboard Preview](./Screenshot 2026-09-13 095357.png)
+![Dashboard Preview](./dashboard-preview.png)
 
 ## Overview
 
